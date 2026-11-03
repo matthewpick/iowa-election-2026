@@ -353,3 +353,54 @@ _File:
 [26] Jonah Dyer — Ballotpedia — https://ballotpedia.org/Jonah_Dyer (accessed Nov 2, 2026)
 [27] Kimberly Graham (term, 2022 result, endorsements) — Ballotpedia — https://ballotpedia.org/Kimberly_Graham (accessed Nov 2, 2026)
 [28] Armed standoff charges dismissed after prosecutors miss indictment deadline — Des Moines Register, Sept. 26, 2025 (paywalled; excerpt only) — https://www.desmoinesregister.com/story/news/crime-and-courts/2025/09/26/des-moines-police-standoff-charges-dismissed-missed-deadline/86335752007/ (accessed Nov 2, 2026)
+
+## Iowa Court of Appeals retention
+
+1. 2026 Judicial Performance Review — Iowa State Bar Association (prepared by the ABA Center for Bar Leadership) — https://www.iowabar.org/docDownload/3133274 (accessed Nov. 3, 2026). Primary source for ratings, respondent counts, retention terms and bios.
+2. Judge Sharon Soorholtz Greer — Iowa Judicial Branch — https://www.iowacourts.gov/iowa-courts/court-of-appeals/judges/sharon-soorholtz-greer/ (search excerpt only).
+3. Judge John M. Sandy — Iowa Judicial Branch — https://www.iowacourts.gov/iowa-courts/court-of-appeals/judges/john-sandy/ (search excerpt only).
+4. Judge Julie Schumacher — Iowa Judicial Branch — https://www.iowacourts.gov/iowa-courts/court-of-appeals/judges/julie-schumacher/ (search excerpt only).
+5. Gov. Reynolds appoints John Sandy as Court of Appeals Judge — Office of the Governor (June 28, 2024) — https://governor.iowa.gov/press-release/2024-06-28/gov-reynolds-appoints-john-sandy-court-appeals-judge
+6. John Sandy — Ballotpedia — https://ballotpedia.org/John_Sandy
+7. Sharon Soorholtz Greer — Ballotpedia — https://ballotpedia.org/Sharon_Soorholtz_Greer
+8. Julie Schumacher — Ballotpedia — https://ballotpedia.org/Julie_Schumacher
+9. Iowa Court of Appeals — Ballotpedia — https://ballotpedia.org/Iowa_Court_of_Appeals (2020 retention results; Ballotpedia cites the Iowa Secretary of State canvass).
+10. What to know about Iowa's judicial retention elections on Nov. 3 ballot — Des Moines Register (Oct. 14, 2026) — https://www.desmoinesregister.com/story/news/politics/elections/2026/10/14/iowa-judicial-retention-elections-guide-2026/92225174007/
+11. Highest and lowest-rated judges on Iowa's 2026 ballot — Bleeding Heartland (Oct. 13, 2026) — https://www.bleedingheartland.com/2026/10/13/highest-and-lowest-rated-judges-on-iowas-2026-ballot/ (secondary source; opinion blog that reports the ISBA data).
+12. Conversation with Iowa Court of Appeals Judge John Sandy — Iowa State Bar Association (Feb. 3, 2025) — https://www.iowabar.org/?pg=IowaLawyerMagazine&pubAction=viewIssue&pubIssueID=50611&pubIssueItemID=321671 (self-reported).
+13. A Judge Formed by Faith: Interview With John Sandy '07 — University of St. Thomas — https://news.stthomas.edu/an-interview-with-judge-john-sandy-07/ (self-reported).
+14. Rural roads to the Iowa Court of Appeals — Judge Sharon Soorholtz Greer, Iowa State Bar Association (Oct. 1, 2026) — https://www.iowabar.org/?pg=IowaLawyerMagazine&pubAction=viewIssue&pubIssueID=74034&pubIssueItemID=496937 (self-reported).
+15. Establishing timely permanency — Judge Julie A. Schumacher, Iowa State Bar Association (March 31, 2026) — https://www.iowabar.org/?pg=IowaBarBlog&blAction=showEntry&blogEntry=142733 (self-reported).
+16. May 2026 Iowa Court of Appeals Published Opinion Roundup — Iowa Appeals blog (May 22, 2026) — https://iowaappeals.com/uncategorized/may-2026-iowa-court-of-appeals-published-opinion-roundup/
+17. In the Interest of O.W., No. 24-0862, Court of Appeals summary — Iowa Judicial Branch — https://www.iowacourts.gov/iowa-courts/court-of-appeals/court-of-appeals-court-opinions/case/24-0862. Also the FindLaw excerpt for In re A.C., No. 26-0309 (April 15, 2026) — https://caselaw.findlaw.com/court/ia-court-of-appeals/118296055.html (search excerpt only).
+18. In the Interest of J.B. and R.R., No. 25-1802, Court of Appeals summary — Iowa Judicial Branch — https://www.iowacourts.gov/iowa-courts/court-of-appeals/most-recent-coa-summaries/case/25-1802
+19. In the Interest of J.B. and R.R., No. 25-1802, Iowa Supreme Court opinion (filed May 8, 2026; amended July 14, 2026) — https://www.iowacourts.gov/courtcases/25805/embed/SupremeCourtOpinion
+20. No. 25-1061 (defendant Rachel Whiteside; April 29, 2026), Court of Appeals — Iowa Judicial Branch — https://www.iowacourts.gov/iowa-courts/court-of-appeals/court-of-appeals-court-opinions/case/25-1061
+
+## Polk County (District 5C) judges retention
+
+1. 2026 Judicial Performance Review (judicial biographies and results, District 5C) — Iowa State Bar Association / ABA Center for Bar Leadership — https://www.iowabar.org/docDownload/3133274 (accessed Nov. 3, 2026)
+2. 2026 Judicial Performance Review results published — Iowa State Bar Association — https://www.iowabar.org/?pg=IowaBarBlog&blAction=showEntry&blogEntry=152694 (accessed Nov. 3, 2026)
+3. What to know about Iowa's judicial retention elections on Nov. 3 ballot — Des Moines Register, Oct. 14, 2026 — https://www.desmoinesregister.com/story/news/politics/elections/2026/10/14/iowa-judicial-retention-elections-guide-2026/92225174007/ (accessed Nov. 3, 2026)
+4. Highest and lowest-rated judges on Iowa's 2026 ballot — Bleeding Heartland, Oct. 13, 2026 — https://www.bleedingheartland.com/2026/10/13/highest-and-lowest-rated-judges-on-iowas-2026-ballot/ (accessed Nov. 3, 2026; blog, secondary source)
+5. Judge dismisses Trump lawsuit over 'Des Moines Register' 2024 presidential poll — Iowa Public Radio, Sept. 24, 2026 — https://www.iowapublicradio.org/political-news/2026-09-24/trump-lawsuit-des-moines-register-kamala-harris-poll (accessed Nov. 3, 2026)
+6. Judge Beattie's order (linked from [5]) — FIRE — https://www.fire.org/research-learn/trump-v-selzer-order-granting-motions-dismiss (not read directly)
+7. Iowa Code § 602.6304, Appointment and resignation of district associate judges — Iowa Legislature — https://www.legis.iowa.gov/docs/code/602.6304.pdf (accessed Nov. 3, 2026)
+8. Iowa Code § 46.17, Time of judicial election — Iowa Legislature — https://www.legis.iowa.gov/docs/code/46.17.pdf (accessed Nov. 3, 2026)
+9. Clive 4 sample ballot, General Election Nov. 3, 2026 — Polk County — local file `clive_4-sample.pdf` (provided by the user)
+10. 2026 Voter Guide, Judges Standing for Retention — Iowa Right to Life (advocacy) — https://iowartl.org/wp-content/uploads/2026/09/2026-Voter-Guide-Judges-to-website.pdf (listed in search results; not read)
+
+## Constitutional Amendment 1
+
+[1] Constitutional Amendment 1 ballot text — Polk County sample ballot, Clive 4 (scratchpad copy of `clive_4-sample.pdf`, page 2) (accessed Nov 3, 2026)
+[2] Iowa Public Radio, "What to know about the constitutional amendment on your Iowa ballot" (Oct. 13, 2026) — https://www.iowapublicradio.org/political-news/2026-10-13/iowa-constitutional-amendment-1-tax-increases-2026-election (accessed Nov 3, 2026)
+[3] KTIV, "What would Iowa's Amendment 1 change?" (Nov. 2, 2026) — https://www.ktiv.com/2026/11/02/what-would-iowas-amendment-1-change-guide-income-tax-ballot-question/ (accessed Nov 3, 2026)
+[4] Iowa Public Radio, same article as [2], for the Hagenow and Discher quotes, CBPP, the 6% sales tax and the $1 billion deficit. (accessed Nov 3, 2026)
+[5] Ballotpedia, "Iowa Amendment 1, Two-Thirds Legislative Vote Requirement for Income Tax Increase Bills Amendment (2026)" — https://ballotpedia.org/Iowa_Amendment_1,_Two-Thirds_Legislative_Vote_Requirement_for_Income_Tax_Increase_Bills_Amendment_(2026) (accessed Nov 3, 2026)
+[6] Iowa Department of Revenue, "IDR Announces 2026 Individual Income Tax and Interest Rates" (Oct. 21, 2025) — https://revenue.iowa.gov/press-release/2025-10-21/idr-announces-2026-individual-income-tax-and-interest-rates (accessed Nov 3, 2026)
+[7] Iowa Department of Revenue, "Iowa Corporate Income Tax Rates" — https://revenue.iowa.gov/taxes/tax-guidance/business-income-tax/iowa-corporate-income-tax-rates (accessed Nov 3, 2026)
+[8] ITR Foundation, "Amendment One's Journey and Why Changing Iowa's Constitution Is No Easy Task" (Oct. 17, 2026) — https://itrfoundation.org/amendment-ones-journey-and-why-changing-iowas-constitution-is-no-easy-task/ (advocacy; accessed Nov 3, 2026)
+[9] LegiScan, Iowa HJR 2006 (2023–24) — https://legiscan.com/IA/bill/HJR2006/2023 (accessed Nov 3, 2026)
+[10] LegiScan, Iowa SJR 11 (2025–26) — https://legiscan.com/IA/bill/SJR11/2025 (accessed Nov 3, 2026)
+[11] The Gazette, "Proposal to make raising Iowa income taxes harder advances" — https://www.thegazette.com/news/state/proposal-to-make-raising-iowa-income-taxes-harder-advances/article_bf8b34d1-235e-40ed-b779-1ae8381c7bd4.html (accessed Nov 3, 2026)
+[12] Fair Taxes for Iowa's Future, "Vote No on Amendment 1" — https://votenoiowa.info/ (campaign, self-reported; accessed Nov 3, 2026)
