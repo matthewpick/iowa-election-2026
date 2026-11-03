@@ -10,6 +10,30 @@ Blocked in pass one (several since resolved via Firecrawl): congress.gov (403), 
 | 01_us_senate.md | ARPA vote date "March 10, 2021" changed to "Feb. 27, 2021". The 219–212 tally and Hinson's "no" were correct; March 10 was the later concurrence vote, not Roll Call 49. | https://clerk.house.gov/evs/2021/roll049.xml |
 | 02_us_house_d3.md | "Voted against five earlier war powers resolutions" changed to two that passed (June 3 and July 23, 2026; rolls 199, 282) and added roll 307 for the Sept. 15 yea. "Five" is Trone Garriott's count, which includes a Pentagon funding vote; the profile already attributes it to her. Two related open-question lines updated. | clerk.house.gov/evs/2026/roll199.xml (H.Con.Res. 86, 215–208, Nunn Nay); roll282.xml (H.Con.Res. 89, 214–208, Nunn Nay); roll307.xml (H.Con.Res. 93, 220–204, Nunn Yea); IPR and Capital Dispatch Sept. 16, 2026 |
 
+| 05_auditor.md | SF 402 (2023) and SF 2332 (2024): "could not confirm it was enacted" replaced with "did not become law" (3 spots). | legiscan.com/IA/bill/SF402/2023 (introduced Feb 23, 2023; subcommittee recommended passage Mar 22; no later action, "died in committee"); legiscan.com/IA/bill/SF2332/2023 (introduced Feb 14, 2024; committee-approved, "died in chamber") |
+
+## Third-pass results (Secretary of State, Auditor, Agriculture, Attorney General)
+| Race | Claim | Verdict | Evidence |
+|---|---|---|---|
+| Auditor | SF 402 and SF 2332 | Corrected (above) | LegiScan histories |
+| Agriculture | HF 2771 signed June 1, 2026 | Confirmed | legiscan.com/IA/bill/HF2771/2025 ("Signed by Governor. H.J. 1169", 2026-06-01) |
+| Agriculture | HF 2771 vote counts (open question) | Resolved, not added to profile | Final House 66–18 and Senate 43–2 on May 2, 2026 (earlier House 65–21, May 1). The "$320M over 12 years" figure is still only IDALS's estimate; not in bill history. |
+| Agriculture | Iowa Corn Growers endorsement of Naig | Confirmed by primary source (profile cites a paywalled summary) | iowacorn.org/news/iowa-corn-growers-association-pac-announces-2026-candidate-endorsements/ lists Mike Naig |
+| Agriculture | Naig cancer remarks [29] | Unverifiable | Register article returns headline only ("says it's 'dangerous' to blame farmers for Iowa cancer rates"), consistent with profile. |
+| Secretary of State | HF 2501 attestation repeal: law, effective July 1 | Law confirmed; effective date not re-checked | LegiScan: House 67–25 (Feb 25), Senate 44–0 (Mar 3), House concurrence 63–29, Senate 31–16 (Apr 15 and 7), signed May 2, 2026 (H.J. 1160). Check which amended version the profile's "took effect July 1" refers to. |
+| Secretary of State | Morales contribution complaint | Facts confirmed; outcome still unknown | Register via AOL: complaint filed Oct. 20 by Lara Plecas; Pate returned the money, said Oct. 22 he would amend his report; the Ethics Board had not responded. No Board ruling found. |
+| Secretary of State | Data sent to DOJ | Partly resolved | IPR (May 5, 2026): driver's license numbers and partial Social Security numbers. Pate's release says DOJ may demand PII "such as" license and SSN numbers without itemizing. Profile should say "partial" SSNs if it doesn't already. |
+| Secretary of State | Peterman 10 vs 15 years | Explained, not contradictory | Campaign about page: "over a decade" as an officer and "fifteen years in uniform," a span that includes the Naval Academy; ICD, Radio Iowa and Telegraph Herald: "10 years as a pilot." Different scopes; wording is unresolved by any source. |
+| Attorney General | SF 340 (2009): 93–3 final vote | Confirmed | LegiScan: House passed ayes 93, nays 3, April 24, 2009, H.J. 1805; signed May 21. The H-1712 vote (66 no) was not checked. |
+| Attorney General | TikTok ruling Jan. 23, 2026 | Confirmed | Iowa Supreme Court No. 24-1566, filed Jan. 23, 2026, amended Apr. 2, 2026; affirmed denial of motion to dismiss for lack of personal jurisdiction. Original filing date not in opinion text read. |
+| Attorney General | Maggie's List endorsement of Bird (2026) | Confirmed | maggieslist.org page quoting The Gazette (also endorsed her in 2022). NRA and sheriff endorsements remain unverified. |
+| Attorney General | Bird says Willems "voted against voter ID" | Claim source confirmed; the vote itself still unverified | Radio Iowa Oct. 12, 2026, Register Oct. 10. Willems's roll-call vote not located. |
+
+## Neutrality notes (these four races)
+- Length: Secretary of State is uneven, Peterman about 1,747 words vs Pate about 1,348. Other races are within roughly 10%: Auditor 1,204/1,241, Agriculture 1,110/1,278, Attorney General 1,295/1,162. Not edited (cutting or adding content is out of scope).
+- Loaded wording ("radical," "far-left," "corruption") appears only inside attributed quotations or source titles, each labeled with its speaker; no change needed.
+- Not reviewed line by line: whether every criticism has its response.
+
 ## Second-pass results (no change needed)
 | Race | Claim | Verdict | Evidence |
 |---|---|---|---|

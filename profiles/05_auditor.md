@@ -26,12 +26,12 @@ Cournoyer told KCCI she had not planned to run for office until the 2012 Sandy H
 - **Technology and cybersecurity bills she floor-managed (2023–24)** [15]:
   - SF 262, consumer data privacy. It passed unanimously and took effect Jan. 1, 2025 [15][17][18]. VitalLaw identified her as the bill's sponsor and Technology Committee chair [17].
   - SF 203, ransomware penalties. It was signed by the governor on May 11, 2023 [24].
-  - SF 402, a cybersecurity simulation training center at Iowa State. The legislature's BillBook page retrieved shows only the introduced version [25]; I could not confirm it was enacted.
+  - SF 402, a cybersecurity simulation training center at Iowa State. The bill did not become law: it was introduced Feb. 23, 2023, and a Senate subcommittee recommended passage Mar. 22, 2023, but the history shows no further action [25].
   - HF 632, school SAVE-fund money for cybersecurity.
   - SF 2186 and HF 2240, harassment using altered ("deepfake") images. HF 2240 took effect July 1, 2024.
 - **Education bills she floor-managed** [15]:
   - SF 250, the computer science professional-development fund (took effect July 1, 2023).
-  - SF 2332, computer science graduation requirements [15][16]. The bill history retrieved shows it introduced and approved by committee on Feb. 14, 2024, with no later action on that page [26]; whether it passed was not confirmed.
+  - SF 2332, computer science graduation requirements [15][16]. The bill did not become law: it was introduced and approved by committee on Feb. 14, 2024, and the history shows no later action [26].
   - SF 398, school robotics activities.
   - SF 2385, which cut state boards and commissions (took effect 2024–25).
 - **DOGE task force:** Reynolds created the Iowa DOGE Task Force by executive order on Feb. 10, 2025. It was chaired by Emily Schmitt of Sukup Manufacturing and staffed by 15–20 business leaders. Its goals were return on taxpayer investment, workforce programs, and technology including AI [11]. The final report was submitted Sept. 29, 2025, and released Oct. 21, 2025 [12]. The final report's roster lists Chair Emily Schmitt, 12 other business and local-government members, and two ex-officio legislators (Rep. Hans Wilz and Sen. Dan Dawson). Cournoyer is not named in it [27]. The report does recommend, in the local-government section, that Iowa consider a shared small-city accounting system modeled on Minnesota's, which the state auditor could use to aggregate local data (pp. 66–67, 71) [27]. Cournoyer's stated role is prospective: she pledges to make the auditor's office "a home for recommendations emerging from the Governor's DOGE Task Force" and to work with state and local governments to carry them out (self-reported) [10][13][14].
@@ -148,7 +148,7 @@ They also differ on emphasis. Cournoyer stresses efficiency, carrying out DOGE r
 - **"Lifelong Iowan":** Cournoyer's campaign calls her a "lifelong Iowan" [13], while Ballotpedia says she was born in Dallas and she attended the University of Texas [14]. Her survey says her parents are from Newton and Brooklyn, Iowa. When she moved to Iowa was not confirmed.
 - **Wettach's federal job:** His self-reported federal position "impacted by" DOGE (agency, dates, whether he started) could not be independently confirmed [18].
 - **Fundraising:** October figures come from news excerpts, not the Iowa Ethics and Campaign Disclosure Board reports themselves. Whether Wettach's totals include funds from his congressional run was not verified. Neither candidate's cumulative total was calculated.
-- **Bills:** SF 203 was signed May 11, 2023 [24]. SF 402 and SF 2332 could not be confirmed as enacted from the pages retrieved [25][26].
+- **Bills:** SF 203 was signed May 11, 2023 [24]. SF 402 (2023) and SF 2332 (2024) did not become law; LegiScan histories show no action after committee or calendar placement [25][26].
 - **Iowa GOP video:** I saw only the title and excerpt of the Iowa GOP's Facebook video about Wettach; Facebook pages could not be scraped [30].
 - **Des Moines Register coverage:** The Register's Oct. 11, 2026 issues piece was paywalled and not reviewed.
 
