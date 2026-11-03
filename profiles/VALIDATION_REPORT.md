@@ -1,14 +1,13 @@
 # Validation report (PARTIAL, updated), Iowa 2026 candidate profiles
 
-Date: Nov 2, 2026. **Status: incomplete; second pass done with a user-supplied Firecrawl key (read via congress.gov, legis.iowa.gov, Capital Dispatch, IPR, Register search excerpts) plus WebFetch on clerk.house.gov.** The "credits exhausted" note below applies to the first pass only. Firecrawl credits were exhausted on both connectors (`firecrawl` and `claude.ai Firecrawl`) at the first call; the claude.ai allowance resets 2026-11-04T01:53Z. Checks below used WebFetch against primary sources only. Only a small fraction of the handoff's "Known issues" was reached. Everything not listed here is **unchecked**, not confirmed.
+Date: Nov 2, 2026. **Status: incomplete; second pass done with a user-supplied Firecrawl key (read via congress.gov, legis.iowa.gov, Capital Dispatch, IPR, Register search excerpts) plus WebFetch on clerk.house.gov.** In the first pass Firecrawl credits were exhausted on both connectors (`firecrawl` and `claude.ai Firecrawl`) at the first call; the claude.ai allowance resets 2026-11-04T01:53Z. Pass-one checks used WebFetch only. Only a small fraction of the handoff's "Known issues" was reached. Everything not listed here is **unchecked**, not confirmed.
 
-Blocked fetches: congress.gov (403), bioguide (403), legis.iowa.gov BillBook (history collapsed, JS-rendered), legis.iowa.gov Code PDFs (retrieved as binary; no PDF text tool available locally), Senate Journal URL guess (404).
+Blocked in pass one (several since resolved via Firecrawl): congress.gov (403), bioguide (403), legis.iowa.gov BillBook (history collapsed, JS-rendered), legis.iowa.gov Code PDFs (retrieved as binary; no PDF text tool available locally), Senate Journal URL guess (404).
 
 ## Corrections made
 | File | Change | Evidence |
 |---|---|---|
 | 01_us_senate.md | ARPA vote date "March 10, 2021" changed to "Feb. 27, 2021". The 219–212 tally and Hinson's "no" were correct; March 10 was the later concurrence vote, not Roll Call 49. | https://clerk.house.gov/evs/2021/roll049.xml |
-
 | 02_us_house_d3.md | "Voted against five earlier war powers resolutions" changed to two that passed (June 3 and July 23, 2026; rolls 199, 282) and added roll 307 for the Sept. 15 yea. "Five" is Trone Garriott's count, which includes a Pentagon funding vote; the profile already attributes it to her. Two related open-question lines updated. | clerk.house.gov/evs/2026/roll199.xml (H.Con.Res. 86, 215–208, Nunn Nay); roll282.xml (H.Con.Res. 89, 214–208, Nunn Nay); roll307.xml (H.Con.Res. 93, 220–204, Nunn Yea); IPR and Capital Dispatch Sept. 16, 2026 |
 
 ## Second-pass results (no change needed)
@@ -42,7 +41,7 @@ Blocked fetches: congress.gov (403), bioguide (403), legis.iowa.gov BillBook (hi
 | Shutdown stopgaps; "one in five votes missed" | Unchecked |
 
 ## Governor (03), Secretary of State (04), Auditor (05), Treasurer (06), Agriculture (07), Attorney General (08), County Attorney (09)
-Unchecked. Specific items still open from the handoff: Lahn $32.8M vs Capital Dispatch cycle total; who said "I do not think we need to go further" (KCRG video Oct. 27); Lahn/Sand length imbalance (~1,470 vs ~1,220 words); SF 402 / SF 2332 enactment; Peterman 10 vs 15 years; Morales complaint outcome; IPERS CEO appointment (Iowa Code 97B.3; PDF was fetched but I couldn't extract text, file saved at `~/.claude/projects/-Users-matthewpick-repos-iowa-election-2026/7a7dc40d-a93c-424c-a98b-75d148dbbef4/tool-results/webfetch-1793679582597-pe9va5.pdf`); county attorney term end (Iowa Code 331.751 PDF saved as `webfetch-1793679582596-fldm2u.pdf` in the same folder); Bird endorsements; HF 2771 vote counts.
+Mostly unchecked (see Second-pass results for Governor, Treasurer and County Attorney items). Still open from the handoff: Sand's post-Oct. 14 fundraising total; Lahn/Sand length imbalance (~1,470 vs ~1,220 words); SF 402 / SF 2332 enactment; Peterman 10 vs 15 years; Morales complaint outcome; Bird endorsements; HF 2771 vote counts.
 
 ## Neutrality problems
 None assessed; no profile text was reviewed beyond the lines above. One structural flag taken from the handoff: Governor profile lengths are uneven (Lahn ~1,470 vs Sand ~1,220 words).
