@@ -44,7 +44,7 @@ _Ballot / candidates:_ Roby Smith (Republican), John Norwood (Democrat) [1]. **S
   - limited ballot drop boxes
   - created criminal penalties for election officials who don't follow state directives [25]
   Smith said the bill created uniform procedures and that a "handful of auditors" had caused "unnecessary confusion and wasteful spending of tax dollars in 2020" [25]. The League of Women Voters, AARP Iowa, and the county auditors' association opposed it [25].
-- **Taxes and 529s.** He served on Ways and Means [7]. His 2021 campaign site says he "passed a key reform to make it easier for parents to contribute" to 529 plans [16]. He says he would take a more active role supporting tax cuts if elected (2022 debate summary) [26]. His specific role in the 2018 and 2022 income-tax laws could not be verified (see Open questions).
+- **Taxes and 529s.** He served on Ways and Means [7]. His 2021 campaign site says he "passed a key reform to make it easier for parents to contribute" to 529 plans [16]. He says he would take a more active role supporting tax cuts if elected (2022 debate summary) [26]. LegiScan roll calls show him voting yes on the 2018 income-tax law (SF 2417, Senate 28–20) and the 2022 law (HF 2317, Senate 32–16) [34][35]; whether he sponsored or floor-managed either was not confirmed.
 - **Attendance.** Smith says he never missed a floor vote in 12 years [3][16].
 
 **As treasurer (2023–present)**, all figures self-reported in the Oct. 2026 Iowa Press interview unless noted [3]:
@@ -163,7 +163,7 @@ These are self-reported from his campaign site, Ballotpedia survey, and appearan
 - **The 529 deduction bill.** The bill number and year were not verified (self-reported [3]).
 - **IPERS CEO appointment history.** When governor appointment of the CEO was adopted was not verified. Smith says "over 20 years" [3].
 - **Smith's interest and deposit figures.** These were not independently audited. KCCI traced the $1 million-a-day figure to a treasurer budget presentation [4].
-- **SF 418.** The year it was enacted was not confirmed. Divestment was required by Jan. 1, 2024 [20].
+- **SF 418.** Signed May 3, 2023 (House 95–0, Senate 49–1) [36]. Divestment was required by Jan. 1, 2024 [20].
 - **Whistleblower suit.** Details of the Polk County case Norwood cites were not reviewed [3].
 - **Norwood's commissioner record.** Beyond self-reported titles and the "Batch and Build" claim, no votes or projects were found.
 - **TBL Ventures.** Size and clients not found beyond self-descriptions.
@@ -218,3 +218,6 @@ These are self-reported from his campaign site, Ballotpedia survey, and appearan
 [31] Treasurer Smith Announces Fee Reduction for ISave 529 Account Holders (June 25, 2026) — ISave 529 / State Treasurer (official) — https://www.isave529.com/learn/news/treasurer-smith-announces-fee-reduction-for-isave-529-account-holders (accessed Nov 2, 2026)
 [32] John Norwood — LinkedIn (self-reported; search excerpt only) — https://www.linkedin.com/in/johnmnorwood (accessed Nov 2, 2026)
 [33] 2003 Iowa Acts, Extra Session (amends Code 97B.3; scrape timed out, search excerpt only) — Iowa Legislature — https://www.legis.iowa.gov/docs/publications/iactc/80.1.1/2003_Iowa_Acts_Extra1.pdf (accessed Nov 2, 2026)
+[34] SF 2417 (2018) Senate passage roll call — LegiScan — https://legiscan.com/IA/rollcall/SF2417/id/749481 (accessed Nov 2, 2026)
+[35] HF 2317 (2022) Senate passage roll call — LegiScan — https://legiscan.com/IA/rollcall/HF2317/id/1154700 (accessed Nov 2, 2026)
+[36] SF 418 (2023) bill history — LegiScan — https://legiscan.com/IA/bill/SF418/2023 (accessed Nov 2, 2026)

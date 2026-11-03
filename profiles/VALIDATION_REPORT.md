@@ -34,6 +34,25 @@ Blocked in pass one (several since resolved via Firecrawl): congress.gov (403), 
 - Loaded wording ("radical," "far-left," "corruption") appears only inside attributed quotations or source titles, each labeled with its speaker; no change needed.
 - Not reviewed line by line: whether every criticism has its response.
 
+## Fourth-pass results (Governor, Treasurer)
+Corrections to profiles: **03_governor.md**: replaced a placeholder citation ("headline-level only [search result]") on the Wulf $275,000 claim with the KCCI Oct. 22 report (new [36]), keeping Wulf's response. **06_treasurer.md**: added Smith's confirmed yes votes on SF 2417 (2018) and HF 2317 (2022) (new [34][35]) and the SF 418 enactment date (new [36]).
+| Race | Claim | Verdict | Evidence |
+|---|---|---|---|
+| Governor | HF 2104 House vote 64–28, Jan. 21, 2026 | Confirmed | legiscan.com/IA/bill/HF2104/2025 (House passed 64–28; Senate Commerce report 13–5 Jan. 28; died in chamber) |
+| Governor | Q3 fundraising figures (Sand $16.31M raised, $28.9M spent, $5.35M cash, DGA $5.5M; Lahn $16.87M, $17.5M, ~$403K cash, $2.5M loans, RGA PAC $11.8M) | Confirmed | IPR Oct. 20, 2026, citing Ethics Board summaries |
+| Governor | Lahn $26.94M vs $32.8M | Consistent, not a conflict | $26.94M (Oct. 14 report, ICD) + $5.9M (pre-election report, Register Oct. 31 snippet) = $32.8M. Sand's post-Oct. 14 figure not retrievable (Register paywall); the profile's Sand total is also through Oct. 14. A multistate.us page lists Sand at $37.8M, which conflicts with the $54.15M cycle total and is unexplained; the sum of Sand's reports in the profile ($9.57M + $9.39M + $16.31M = $35.27M) plus 2025 reports could reach $54.15M, but the 2025 figure was not checked. **Unresolved: check Sand's 2025 reports on the Ethics Board site.** |
+| Governor | Wulf $275,000 claim | Confirmed and now cited | KCCI Oct. 22: petition filed in Black Hawk County by Wulf's parents (Duane and Jackie Wulf) |
+| Governor | Black Hawk County review after Sept. 22 | Unresolved | No charges or dismissal found |
+| Governor | Lahn bought Belle Plaine farm 2013 vs 2014 | Weight of sources favors 2014; profile left as is | Modbee/McClatchy and Iowa Democrats (partisan) say 2014 (moved back 2013, bought farmhouse 2014); Kansas Reflector says 2014; KMAland says 2013 |
+| Governor | Sand abortion quote | Confirmed in pass two | |
+| Governor | Profile length imbalance (Lahn ~1,470 vs Sand ~1,220) | Not changed | Trimming or adding content is out of scope; flagged for the editor |
+| Treasurer | Smith's role in 2018 and 2022 tax laws | Partly resolved | Voted yes on SF 2417 (Senate 28–20; signed May 30, 2018) and HF 2317 (Senate 32–16, Feb. 24, 2022); HF 2317 is a committee bill. Floor-manager role not shown. |
+| Treasurer | SF 418 enactment | Resolved | Signed May 3, 2023 (House 95–0, Senate 49–1 on Mar. 22) |
+| Treasurer | 529 deduction $3,800 to $6,100 | Unverifiable | ISave 529 and Treasurer pages confirm $6,100 for 2026 and $5,800 for 2025; no bill number found. The annual rise suggests inflation indexing, which was not verified. The profile attributes the claim to Smith. |
+| Treasurer | Smith age 48 vs 49 | Unresolved | Wikipedia: born 1977, no day, consistent with either |
+| Treasurer | IPERS CEO governor-appointed | See pass two | Code 97B.3 history: 2001, 2003, 2017 amendments |
+| Treasurer | Norwood record; TBL Ventures | Unchecked | |
+
 ## Second-pass results (no change needed)
 | Race | Claim | Verdict | Evidence |
 |---|---|---|---|
