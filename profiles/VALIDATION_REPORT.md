@@ -50,19 +50,25 @@ Blocked in pass one (several since resolved via Firecrawl): congress.gov (403), 
 |---|---|---|---|
 | Hinson voted no on American Rescue Plan; passed 219–212 | [32] | Confirmed (date corrected) | clerk.house.gov/evs/2021/roll049.xml (H.R. 1319, Yea 219, Nay 212, Hinson Nay) |
 | Hinson voted no on infrastructure law, Nov. 2021 | [33][34] | Confirmed | clerk.house.gov/evs/2021/roll369.xml (H.R. 3684, Nov 5, 2021, 228–206, Hinson Nay). The profile should cite this roll call in addition to PolitiFact/ABC; not added (no new content). |
-| Hinson age 43 vs 41 | [2][20] | Unresolved | Bioguide returned 403. Note: if the often-listed birth date of Nov. 17, 1983 is right, she is 42 on Nov. 2, 2026, so neither 41 nor 43 would be right. **Unverified; check a primary source.** |
-| Turek SJR 11 individual vote; SJR 11 and HF 2317 history | [31] | Unverifiable | legis.iowa.gov BillBook renders only the enrolled-bill viewer even through Firecrawl; journal/roll-call pages not located. |
-| FEC totals, debate quotes, other notes | various | Unchecked | |
+| Hinson age 43 vs 41 | [2][20] | Corrected in report: 43 stands | Wikipedia lists birth date June 27, 1983 (age 43 on Nov. 2, 2026); ICD's 41 appears wrong. Bioguide was not reachable, so this is secondary-sourced. (Pass-one speculation about a Nov. 17 birth date was wrong and is withdrawn.) |
+| Turek SJR 11 and HJR 2006 individual votes | [23][31] | Resolved (profile updated) | LegiScan roll calls (rawHtml): SJR 11 final passage, House, May 2, 2026 (57–21, 22 absent): Turek **absent**; HJR 2006, House, Mar. 26, 2024 (61–35): Turek **Nay**. https://legiscan.com/IA/rollcall/SJR11/id/1693487 ; https://legiscan.com/IA/rollcall/HJR2006/id/1426842. Added as [37][38] in file 01. Note: Hinson's campaign claims he "voted against advancing" Amendment 1 [22]; the profile now says the final-passage record shows absent and that amendment votes were not checked. |
+| FEC totals (Hinson $14.15M, Turek $24.29M) | [3] | Confirmed | openFEC totals through 2026-10-14: Hinson $14,147,973 receipts (includes $3.91M transfers from her other authorized committee, so the "may include transfers" caveat is justified); Turek $24,290,521 (includes $1.56M transfers). |
+| Laehn receipts $0.08M | [3] | **Discrepancy, not edited** | openFEC shows Laehn (S6IA00181) receipts of $61,146 through 2026-10-14, about $0.06M, not $0.08M. The profile cites Ballotpedia for the figure; recommend replacing with FEC or removing. |
+| Iowa PBS debate quotes ("gaming the system," "dangerous criminal illegals," "bad trade partners," "up to 15 times more wealthy," "orderly end," $5M stock) | [11] | Confirmed | All appear in the Iowa PBS transcript (fetched in full); speaker attribution checked for the Turek wealth claim, Hinson's "orderly end" and stock-sale reply, and the work-requirements quote. |
+| Missed votes: Hinson 5 of 283 (1.1%); Turek 58.1%; Turek 81% career (his campaign) | [12] | Confirmed | KTIV Aug. 26, 2026 article states each figure and labels 81% as Turek's campaign claim. |
+| Hinson's farm bill, E15, ACA votes; IPR border-bill statement | [9][14][15][25] | Unchecked | |
 
 ## House D3 (02)
 | Claim | Verdict |
 |---|---|
 | H.R. 1 roll call 190 | Not re-checked (handoff marks low risk) |
 | H.R. 7008 Nunn cosponsorship | Confirmed (see Second-pass results) |
-| Trone Garriott HF 2317 vote (Senate Journal p. 396) | Unverifiable (journal not reachable) |
+| Trone Garriott HF 2317 vote | Confirmed: Nay, Senate passed 32–16 on Feb. 24, 2022 (LegiScan roll call id 1154700; open-question lines updated) |
+| FEC totals (Nunn $6.12M raised/$5.56M spent/$620,759 on hand; Trone Garriott $8.07M/$6.92M/$1.15M) | Confirmed against openFEC through 2026-10-14 |
+| Hatch Act complaint (filed Sept. 11) | Filing confirmed (Capital Dispatch, KCRG, DCCC); no OSC decision found |
 | Nunn Iran war powers | Corrected (see Corrections) |
 | Nunn ACA January 2026 | Confirmed via Capital Dispatch (roll call itself not opened) |
-| Shutdown stopgaps; "one in five votes missed" | Unchecked |
+| Nunn campaign: Trone Garriott "missed one in five votes"; shutdown stopgaps; outside-spending discrepancy ($10.6M vs $3.7M) | Unchecked (no aggregate attendance source reachable) |
 
 ## Governor (03), Secretary of State (04), Auditor (05), Treasurer (06), Agriculture (07), Attorney General (08), County Attorney (09)
 Mostly unchecked (see Second-pass results for Governor, Treasurer and County Attorney items). Still open from the handoff: Sand's post-Oct. 14 fundraising total; Lahn/Sand length imbalance (~1,470 vs ~1,220 words); SF 402 / SF 2332 enactment; Peterman 10 vs 15 years; Morales complaint outcome; Bird endorsements; HF 2771 vote counts.
