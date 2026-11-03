@@ -19,7 +19,7 @@ Hinson joined KCRG-TV in Cedar Rapids in 2005. Over about a decade she reported 
 
 ### Track record
 - **2025 reconciliation law ("One Big Beautiful Bill Act"):** Voted yes. KCRG's fact check notes that the Congressional Budget Office projects the law will increase the number of uninsured Americans by about 10 million by 2034, and that KFF estimates 60,000 to 100,000 Iowans could lose coverage. The law also created a $50 billion rural hospital fund [14][15]. Her campaign says the law cut taxes on tips, overtime and Social Security and sent "more than $209 million for rural healthcare in Iowa" (self-reported) [3].
-- **American Rescue Plan (March 10, 2021):** Voted no; the bill passed 219–212 [32].
+- **American Rescue Plan (Feb. 27, 2021):** Voted no; the bill passed 219–212 [32].
 - **Infrastructure law (Nov. 2021):** Voted no. PolitiFact reported she later joined a letter seeking Iowa lock-and-dam money from the law [33]. Her spokesperson said she "opposed the infrastructure package because it was tied to trillions of other spending in the House" [34].
 - **ACA subsidies (Jan. 2026):** Voted against a House measure to extend the enhanced ACA premium tax credits. The measure passed the House but failed in the Senate [14].
 - **Farm bill (March 2026):** Voted for the farm bill that passed the House [15]. She says her PRECISE Act on precision-agriculture technology was included in it (self-reported) [20].
