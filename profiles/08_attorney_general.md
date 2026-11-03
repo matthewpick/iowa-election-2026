@@ -43,7 +43,7 @@ Bird asks voters to judge her record of supporting crime victims and law enforce
 ### Endorsements & funding
 - **Fundraising:** From July 15 to Oct. 14, 2026, she raised just over $4.6 million and spent $7.9 million, ending with $3.5 million cash on hand [18]. More than $3.57 million since July, about three-quarters of the period's total, came from the Republican Attorneys General Association [18].
 - **Contributions from POET's CEO:** He gave $25,000 (Sept. 2024), $25,000 (Sept. 2025) and $50,000 (May 2026) [15].
-- **Endorsements:** President Trump endorsed her (KGAN headline; article not read) [32]. Trump also praised her at an October rally [10]. Search excerpts also show an NRA endorsement and a Maggie's List endorsement, and a past announcement of 71 sheriff endorsements. The dates of those were not confirmed and may be from 2022 [33][34]. No official endorsement page from her campaign was found.
+- **Endorsements:** President Trump endorsed her in a Sept. 1, 2026 Truth Social post [32]. Trump also praised her at an October rally [10]. The NRA Political Victory Fund lists her as NRA-endorsed for 2026 (date not shown) and Maggie's List endorsed her [33][37]. Her announcement of 71 sheriff endorsements dates from the 2022 campaign (Gazette, Sept. 9, 2022), not 2026 [34]. No official endorsement page from her campaign was found.
 
 ### Criticisms & responses
 - **POET pollution:** A Willems ad says Bird "refused to go after" POET and later took $100,000 from its CEO [6]. KCRG's fact check found the AG may pursue civil action beyond a DNR fine but never did. It also found the donations came after the DNR's $10,000 fine, and that Bird's Democratic predecessor took no further action after a similar 2022 POET fine [15]. *Response:* Her chief of staff said the DNR assessed the statutory maximum, the matter "was not referred to our office," and the office "applies the law equally regardless of politics" [15]. POET's own lawyers, in an Aug. 28, 2026 letter posted on Willems's site, call the ad defamatory and demand a retraction. They say POET self-reported the problem, signed a DNR consent order on July 5, 2024, and that testing showed levels below health-risk thresholds. They say the CEO's donations are unconnected to any office decision [31].
@@ -125,7 +125,7 @@ Willems's father was a Main Street attorney and his mother a public-school teach
 | Voter ID / election fraud | Supports voter ID; prosecutes election misconduct [11] | Will enforce voter ID; questions the office's conviction record [9][11] |
 | Immigration | Defending SF 2340 at the U.S. Supreme Court [21] | No stated position found |
 | Cold case unit | Created it (2024) [14] | Would keep it [10] |
-| Endorsements (as found) | Trump; NRA and sheriffs (dates unconfirmed) [32][33][34] | AFL-CIO, UAW, SEIU, Sierra Club, Tom Miller; DAGA [30][36] |
+| Endorsements (as found) | Trump (Sept. 1, 2026), NRA-PVF, Maggie's List; 71 sheriffs (2022 announcement) [32][33][34][37] | AFL-CIO, UAW, SEIU, Sierra Club, Tom Miller; DAGA [30][36] |
 | Money (Jul 15–Oct 14) | Raised $4.6M; $3.5M on hand [18] | Raised $3.12M; $1.7M on hand [18] |
 
 ### Where they differ most
@@ -144,7 +144,7 @@ The candidates disagree most about what the office should prioritize. Bird empha
 - Meta settlement figures come from Bird's office [29]. Totals across all states were not independently verified.
 - Whether the Willems campaign responded to POET's letter beyond keeping the claims online was not found.
 - Bird's cold-case results and "doubled prosecutors" claim are self-reported. So are Willems's case results, including the Carter Lake "largest increase" claim.
-- Dates of Bird's NRA, Maggie's List, sheriff and Trump endorsements were not confirmed. Willems's endorsement list is self-reported and was not independently checked.
+- Bird's Trump endorsement (Sept. 1, 2026) and the 2022 date of the 71-sheriff announcement are confirmed; the NRA endorsement is confirmed but undated. Willems's organization and official endorsements are from his own page [30]; the DAGA endorsement is confirmed on DAGA's site [36].
 - The 19th News characterization of Willems on reproductive health comes from a search excerpt [28].
 - Bird's Guthrie County Attorney start: sources say 2018 [1][3].
 
@@ -196,6 +196,7 @@ The candidates disagree most about what the office should prioritize. Bird empha
 [31] Letter from POET's counsel (Benesch) to Willems for Iowa, Aug 28, 2026 (hosted by the Willems campaign; interested party) — https://www.natewillems.com/assets/public/2026.08.28%20Ltr%20to%20Willems%20for%20Iowa.pdf (accessed Nov 2, 2026)
 [32] Trump endorses Brenna Bird in Iowa attorney general's race — KGAN/CBS2 — https://cbs2iowa.com/news/local/trump-endorses-bird-in-iowa-attorney-generals-race (accessed Nov 2, 2026; search excerpt)
 [33] Brenna Bird endorsements, 2026 — Sway (includes Maggie's List) and Iowa Standard Facebook post on NRA — https://www.sway.co/candidate/brenna-bird-b829f88c-aea9-4f6a-8b2d-860f63aacecd (accessed Nov 2, 2026; search excerpt)
-[34] Campaign Almanac: Brenna Bird announces 71 sheriff endorsements — The Gazette (date not confirmed) — https://www.thegazette.com/news/elections/campaign-almanac-brenna-bird-announces-71-sheriff-endorsements/article_c6af01b2-3d09-5d97-b4cc-f8717fa895ce.html (accessed Nov 2, 2026; search excerpt)
+[34] Campaign Almanac: Brenna Bird announces 71 sheriff endorsements (Sept. 9, 2022) — The Gazette — https://www.thegazette.com/news/elections/campaign-almanac-brenna-bird-announces-71-sheriff-endorsements/article_c6af01b2-3d09-5d97-b4cc-f8717fa895ce.html (accessed Nov 2, 2026; search excerpt)
 [35] Bird for Iowa calls out Nate Willems for voting against voter ID — Iowa GOP Facebook post (advocacy) — https://www.facebook.com/IowaGOP/posts/bird-for-iowa-calls-out-liberal-nate-willems-for-attorney-general-for-voting-aga/1647039700123556/ (accessed Nov 2, 2026; search excerpt)
 [36] DAGA Endorses Nate Willems for Iowa Attorney General, May 6, 2026 — Democratic Attorneys General Association (advocacy) — https://dems.ag/profile/nate-willems/ (accessed Nov 2, 2026; search excerpt)
+[37] NRA-PVF Iowa grades and endorsements, 2026 (lists Brenna Bird as "NRA Endorsed") — NRA Political Victory Fund — https://www.nrapvf.org/grades/iowa/ (accessed Nov 2, 2026); Maggie's List endorsement — https://maggieslist.org/maggies-list-in-the-gazette-maggies-list-backs-lundgren-attorney-general-brenna-bird/

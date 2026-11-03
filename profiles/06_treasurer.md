@@ -130,7 +130,7 @@ These are self-reported from his campaign site, Ballotpedia survey, and appearan
 ### Criticisms & responses
 - **IPERS change.** Smith says Norwood is "the only person that wants to make changes to IPERS" and that the current structure has produced strong funding [3]. Norwood responds that the 2026 departures and the whistleblower suit show "governance, structural issues" needing more board oversight [3].
 - **Banking experience.** Smith says he is "the only one that has the banking background" [3]. Norwood responds that his finance career and small-business advising mean he knows "quite a bit about banking" [3].
-- **DOGE/privatization claim.** Norwood says Republicans want to move new hires to a 401(k)-style plan [18]. The task force's final report only suggested alternatives be part of recurring reviews, and Reynolds and legislative leaders said "IPERS isn't going anywhere" [29].
+- **DOGE/privatization claim.** Norwood says Republicans want to move new hires to a 401(k)-style plan [18]. The task force's final report suggested alternatives be part of recurring reviews, and Reynolds and legislative leaders said "IPERS isn't going anywhere" [29].
 - No other published criticism of Norwood was found.
 
 ---

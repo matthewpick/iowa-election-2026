@@ -53,6 +53,31 @@ Corrections to profiles: **03_governor.md**: replaced a placeholder citation ("h
 | Treasurer | IPERS CEO governor-appointed | See pass two | Code 97B.3 history: 2001, 2003, 2017 amendments |
 | Treasurer | Norwood record; TBL Ventures | Unchecked | |
 
+## Fifth-pass results (parallel agents: fundraising, neutrality, endorsements, County Attorney)
+**Fundraising**
+| Claim | Verdict | Evidence |
+|---|---|---|
+| Sand cycle total $54.15M (through Oct. 14) | Confirmed; the $37.8M on multistate.us is Sand's total through July 14 (stale) | Little Village: Sand $54,149,727, Lahn $26,941,749; Lahn's Ethics Board summary matches ($16,871,785 raised, $403,181 cash, $2.5M loans) |
+| Laehn receipts | **Corrected** in 01: $0.08M to $0.06M | FEC candidate S6IA00181: $61,146 through Oct. 14 (new source [39] in 01) |
+| Oct. 31 pre-election totals | Added to 03 with labels | Lahn +$5.9M, cycle $32.8M (Register excerpt); Sand's $4.8M raised Oct. 15 to 27 is his campaign's own figure; the Register's "about $59M" is an excerpt. Sand's own Ethics Board report (4,500+ pages) was not read, and the profile's period figures do not sum to the cycle total on their own. |
+
+**Endorsements and attendance (08, 02)**
+- Trump endorsement of Bird: Sept. 1, 2026 (CBS2 Iowa). NRA: NRA PVF page marks Bird endorsed, undated. 71 sheriffs: announced in 2022, not 2026 (Gazette Sept. 9, 2022; KTIV Oct. 18, 2022); profile corrected. Willems's list matches his endorsements page; DAGA endorsement confirmed May 6, 2026.
+- Willems voter-ID vote: not located (served 2009 to 2013; 2017's HF 516 is not his vote). Bird's claim still rests on campaign and debate reporting.
+- "Missed one in five votes": only Nunn campaign posts; no independent record. Profile already labels it a campaign claim.
+- Outside spending: Ballotpedia's $3.7M is the sum of two "against" lines, not total spending; OpenSecrets shows about $25.5M involving the two candidates. Totals differ by method and date; profile's attributed "$10.6M" line left as is.
+
+**County Attorney (09), first validation**: Graham's 2022 and 2026 primary results, the April 2026 clinic killing coverage and quotes, Brown's 58-year sentence, Dyer's biography (self-reported) and his nomination at a special convention all confirmed. Term end: Iowa Code 39.17(2) and 331.751(3) put elections in 2022, 2026 and every four years, four-year terms, consistent with the profile's inference of an early-January 2027 end. One small gap: the profile says "two judges" had access to criminal histories, but the article says "the judge." Watsabaugh refiling not found.
+
+**Neutrality fixes (wording only; no content added or trimmed)**
+- 02: split merged bullets; removed editorial "though"; neutralized the HF 2317 sentence (profile no longer endorses the Iowa GOP's claim, just records the no vote); Nunn's abortion row now uses his own label.
+- 03: removed an unsupported sentence with a placeholder citation; minimum-wage table row now matches body text.
+- 04: labeled Pate's "third-generation" self-reported; removed a writer inference about "referee"; removed duplicated Peterman text; SAVE row now says "December 2025 settlement" instead of implying a court win.
+- 06: removed "only" from a fact-check sentence. 07: "Helped champion it" replaced with a sourced statement; split merged bullets. 09: replaced unattributed speculation with the fact and Dyer's own words.
+- 01 and 05: no violations found. 08: no wording changes.
+- Left alone: Lahn/Sand length gap (about 1,476 vs 1,225 words); Laehn has no criticisms and a shorter profile (about 850 words), which reflects coverage; Norwood (972) vs Smith (1,224) per the handoff; Hegseth entry in 02 is about 170 words versus shorter siblings; three nonstandard inline cites and a garbled Muhlbauer phrase in 03; 05 has a "Party support" bullet for Cournoyer with no matching bullet for Wettach.
+- Open check: 08 says Bird "lost the 2010 AG race to Miller." Capital Dispatch says so, but Ballotpedia's 2010 page names the nominee "Findley," and a name change was not confirmed.
+
 ## Second-pass results (no change needed)
 | Race | Claim | Verdict | Evidence |
 |---|---|---|---|

@@ -30,7 +30,8 @@ Naig lists his priorities as supporting the ag industry, animal health and food 
 ### Positions on key issues
 - **Water regulation:** Prefers incentives and voluntary practices. Opposes new mandates and taxes on farm inputs, which he says would hit small and mid-sized farms and speed up consolidation [6].
 - **Ethanol:** Calls it value-added agriculture worth about $5 billion to Iowa [3].
-- **Nitrate and cancer:** At the Farm Progress Show in Boone (August), Naig said blaming farmers will not solve Iowa's cancer crisis; the Des Moines Register quotes him: "When we start to go down this path of automatically blaming someone and blaming farmers, for instance, when we really need to understand what…" (excerpt only) [29]. In an AP story he said water and cancer are "a hot topic on the campaign trail," but "we have to have a long view of these things, and we're making progress" [26]. I did not find a statement from him on whether nitrate causes cancer.- **Carbon pipeline:** Said Summit's pipeline should be built without eminent domain "if it's going to get done," and called for stronger property-rights protections [3].
+- **Nitrate and cancer:** At the Farm Progress Show in Boone (August), Naig said blaming farmers will not solve Iowa's cancer crisis; the Des Moines Register quotes him: "When we start to go down this path of automatically blaming someone and blaming farmers, for instance, when we really need to understand what…" (excerpt only) [29]. In an AP story he said water and cancer are "a hot topic on the campaign trail," but "we have to have a long view of these things, and we're making progress" [26]. I did not find a statement from him on whether nitrate causes cancer.
+- **Carbon pipeline:** Said Summit's pipeline should be built without eminent domain "if it's going to get done," and called for stronger property-rights protections [3].
 - **Beef imports / land:** Called Trump's beef-import plan a "bad idea" and wants more Iowa land owned by Iowans [3][2].
 
 ### Endorsements & funding
@@ -95,7 +96,7 @@ Jones calls the race "a referendum on the condition of Iowa's water" [5] and cal
 |---|---|---|
 | Experience | Secretary since 2018; deputy 2013–18; Monsanto and ag-policy roles [6] | Des Moines Water Works lab manager, ISA scientist, UI IIHR research engineer; author [1][12] |
 | Water quality approach | Voluntary incentives plus treatment upgrades ("farm to faucet") [5][7] | Regulate fertilizer and manure by watershed; paid "off ramps" to diversify [10] |
-| Farm to Faucet law | Helped champion it; ~$320M over 12 yrs [7] | Says it puts the whole cost on taxpayers, not agriculture [12] |
+| Farm to Faucet law | Supports it ("balanced approach"); IDALS estimates ~$320M over 12 yrs [7] | Says it puts the whole cost on taxpayers, not agriculture [12] |
 | Fertilizer/input taxes | Opposes [6] | Supports restrictions or taxation, including on fall anhydrous [10][6] |
 | Ethanol / E15 | Pushes nationwide year-round E15 [8][23] | "Strategic retreat" from corn ethanol [10] |
 | Carbon pipeline | No eminent domain; skeptical it can be built otherwise [3] | Opposes pipeline and 45Q credit [3] |

@@ -50,7 +50,7 @@ Dyer has never held public office, so he has no voting or official record [5]. H
 
 ### Criticisms & responses
 - This research found no published criticism of Dyer by Graham or her campaign, and no Graham reply to his campaign-site pages.
-- Some voters may note that a career defense lawyer is running for chief prosecutor. Dyer addresses this himself: "Jonah's an Attorney. Not a Politician." He says his defense experience shows him "exactly where the system works and where it fails" (self-reported) [8].
+- Dyer is a career defense lawyer running for chief prosecutor, and has not held office. He describes himself this way: "Jonah's an Attorney. Not a Politician." He says his defense experience shows him "exactly where the system works and where it fails" (self-reported) [8].
 - Dyer's criticisms of Graham are listed under her profile. His site presents them in the campaign's own voice, not as neutral findings [10-13].
 
 ---
@@ -126,7 +126,7 @@ Polk County says Graham spent 23 years in private practice. Her work included co
 - Whether Watsabaugh was refiled, and court records for Holmes and Brown beyond office releases.
 - Campaign finance totals for either candidate (Iowa Ethics & Campaign Disclosure Board not checked).
 - Candidate forums or debates. None found.
-- Term end: Polk County's bio page says 2026 [4], its About Us page says 2027 [25], Ballotpedia says 2027 [27], and BallotReady says Dec. 31, 2026. The office is on the Nov. 3, 2026 ballot. My inference, not a source statement, is that the four-year term begun Jan. 3, 2023 ends in early January 2027, so the 2027 labels reflect that. A fresh check against Iowa Code or the Auditor is needed.
+- Term end: Polk County's bio page says 2026 [4], its About Us page says 2027 [25], Ballotpedia says 2027 [27], and BallotReady says Dec. 31, 2026. The office is on the Nov. 3, 2026 ballot. My inference, not a source statement, is that the four-year term begun Jan. 3, 2023 ends in early January 2027, so the 2027 labels reflect that. Iowa Code 39.17(2) and 331.751(3) confirm county attorneys are elected in 1974 and every four years thereafter (so 2022 and 2026) to four-year terms, which is consistent with this inference; the statute text retrieved does not state the exact start date.
 - Dyer's bar or disciplinary record, and his firm's founding date, beyond what his campaign reports.
 
 ## Validation notes

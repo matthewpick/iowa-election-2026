@@ -180,7 +180,7 @@ No significant published criticism of Laehn by his opponents or by news outlets 
 | Iran war | Opposed war-powers resolution; wants "immediate and successful" end [9][11] | End the war; diplomacy [11] | "Unconstitutional"; defund undeclared wars [17] |
 | Trump | Ally, but "will push back" [11] | Will work with him on the border; opposes tariffs [11][21] | Critical of tariffs, war, executive power [17] |
 | Social Security | No benefit cuts; bipartisan commission [11] | Lift payroll-tax cap [11] | No stated position found |
-| Receipts (FEC, Oct. 14) | $14.15M [3] | $24.29M [3] | $0.08M [3] |
+| Receipts (FEC, Oct. 14) | $14.15M [3] | $24.29M [3] | $0.06M [39] |
 
 ### Where they differ most
 - **The 2025 reconciliation law:** Hinson voted for it and wants to make its tax provisions permanent. Turek would reverse its Medicaid and SNAP cuts while keeping some provisions, such as no tax on tips and overtime [20][7][23]. Laehn frames federal spending mainly around the debt and a balanced-budget amendment [8].
@@ -256,3 +256,4 @@ No significant published criticism of Laehn by his opponents or by news outlets 
 [36] Greene County Attorney wins a post conviction relief action — Raccoon Valley Radio — https://www.raccoonvalleyradio.com/2026/09/21/greene-county-attorney-wins-a-post-conviction-relief-action-against-fort-dodge-woman-for-a-trial-that-happened-almost-two-years-ago/ (accessed Nov 2, 2026)
 [37] SJR 11 roll call, House final passage, May 2, 2026 — LegiScan (reproduces Iowa House record) — https://legiscan.com/IA/rollcall/SJR11/id/1693487 (accessed Nov 2, 2026)
 [38] HJR 2006 roll call, House, March 26, 2024 — LegiScan — https://legiscan.com/IA/rollcall/HJR2006/id/1426842 (accessed Nov 2, 2026)
+[39] Candidate totals, 2026 cycle (Laehn, S6IA00181: receipts $61,146 through Oct. 14, 2026) — FEC (openFEC API) — https://www.fec.gov/data/candidate/S6IA00181/ (accessed Nov 2, 2026)
