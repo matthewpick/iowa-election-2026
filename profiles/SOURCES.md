@@ -1,9 +1,10 @@
 # Sources used — Iowa 2026 candidate profiles
 
-Regenerated Nov 2, 2026 (after expansion pass) from the Sources section of each race file. Numbers match the bracketed citations in that race's file. Labels (campaign, self-reported) and (advocacy) mark non-neutral sources. Items noted as search-excerpt-only or paywalled in a file's Validation notes were not read in full.
+Regenerated Nov 2, 2026 (after validation passes) from the Sources section of each race file. Numbers match the bracketed citations in that race's file. Labels (campaign, self-reported) and (advocacy) mark non-neutral sources. Items noted as search-excerpt-only or paywalled in a file's Validation notes were not read in full.
 
 ## U.S. Senate (Iowa)
 _File: 
+
 
 [1] U.S. Senate: Powers and Procedures — U.S. Senate — https://www.senate.gov/about/powers-procedures.htm (accessed Nov 2, 2026)
 [2] U.S. Senate | Voter Guide: 2026 Iowa general election — Iowa Capital Dispatch — https://iowacapitaldispatch.com/voter-guides/contests/2026-u-s-senate-general/ (accessed Nov 2, 2026)
@@ -41,9 +42,13 @@ _File:
 [34] House Republicans tout infrastructure funding they voted against — ABC News — https://abcnews.com/Politics/house-republicans-tout-infrastructure-funding-voted/story?id=82429064 (search excerpt; accessed Nov 2, 2026)
 [35] Board of Supervisors minutes, May 18, 2026 — Greene County, Iowa — https://www.greenecounty.iowa.gov/docview.aspx?doctype=minuteDoc&docid=21641 (accessed Nov 2, 2026)
 [36] Greene County Attorney wins a post conviction relief action — Raccoon Valley Radio — https://www.raccoonvalleyradio.com/2026/09/21/greene-county-attorney-wins-a-post-conviction-relief-action-against-fort-dodge-woman-for-a-trial-that-happened-almost-two-years-ago/ (accessed Nov 2, 2026)
+[37] SJR 11 roll call, House final passage, May 2, 2026 — LegiScan (reproduces Iowa House record) — https://legiscan.com/IA/rollcall/SJR11/id/1693487 (accessed Nov 2, 2026)
+[38] HJR 2006 roll call, House, March 26, 2024 — LegiScan — https://legiscan.com/IA/rollcall/HJR2006/id/1426842 (accessed Nov 2, 2026)
+[39] Candidate totals, 2026 cycle (Laehn, S6IA00181: receipts $61,146 through Oct. 14, 2026) — FEC (openFEC API) — https://www.fec.gov/data/candidate/S6IA00181/ (accessed Nov 2, 2026)
 
 ## U.S. House, Iowa District 3
 _File: 
+
 
 [1] The House Explained — house.gov (U.S. House of Representatives) — https://www.house.gov/the-house-explained (accessed Nov 2, 2026)
 [2] U.S. House District 3, Voter Guide: 2026 Iowa general election — Iowa Capital Dispatch — https://iowacapitaldispatch.com/voter-guides/contests/2026-us-house-district-3-general/ (accessed Nov 2, 2026)
@@ -81,6 +86,7 @@ _File:
 ## Iowa Governor / Lieutenant Governor
 _File: 
 
+
 1. Governor — Voter Guide: 2026 Iowa general election — Iowa Capital Dispatch — https://iowacapitaldispatch.com/voter-guides/contests/2026-iowa-governor-general/ (accessed Nov 2, 2026)
 2. Iowa gubernatorial and lieutenant gubernatorial election, 2026 — Ballotpedia (includes candidate survey responses, self-reported) — https://ballotpedia.org/Iowa_gubernatorial_election,_2026 (accessed Nov 2, 2026)
 3. Sand, Lahn trade attacks on residency, family at first Iowa gubernatorial debate — Iowa Capital Dispatch, Oct. 6 — https://iowacapitaldispatch.com/2026/10/06/sand-lahn-trade-attacks-on-residency-family-at-first-iowa-gubernatorial-debate/ (accessed Nov 2, 2026)
@@ -116,9 +122,14 @@ _File:
 33. Iowa joins movement of states blocking climate lawsuits — E&E News (search excerpt) — https://www.eenews.net/articles/iowa-joins-movement-of-states-blocking-climate-lawsuits/ (accessed Nov 2, 2026)
 34. How the Iowa House voted on banning eminent domain for carbon pipelines — Des Moines Register, Jan. 22, 2026 (search excerpt) — https://www.desmoinesregister.com/story/news/politics/2026/01/22/iowa-legislature-vote-carbon-capture-pipelines-eminent-domain-bill/88300870007/ (accessed Nov 2, 2026)
 35. Rob Sand Announces Dave Muhlbauer as Running Mate (campaign, self-reported) — https://robsand.com/news/rob-sand-announces-dave-muhlbauer-as-running-mate/ (accessed Nov 2, 2026)
+36. Lt. governor candidate Derek Wulf accused of owing $275,000 in farmland rent as election approaches (Oct. 22, 2026) — KCCI — https://www.kcci.com/article/lt-governor-candidate-derek-wulf-accused-of-owing-275000-in-farmland-rent-as-election-approaches/74221658 (accessed Nov 2, 2026)
+37. Lahn, Sand report final fundraising tallies before Nov. 3 election (Oct. 31, 2026) — Des Moines Register (search excerpt; paywalled) — https://www.desmoinesregister.com/story/news/politics/elections/2026/10/31/lahn-sand-report-final-fundraising-tallies-before-nov-3-election/92445051007/ (accessed Nov 2, 2026)
+38. Rob Sand Raises $4.8 Million in Final Fundraising Period of Governor's Race (campaign, self-reported) — Rob Sand for Iowa — https://robsand.com/news/rob-sand-raises-4-8-million-in-final-fundraising-period-of-governors-race (accessed Nov 2, 2026)
+39. Zach Lahn outraises Rob Sand, July to October — Little Village — https://littlevillagemag.com/zach-lahn-outraises-rob-sand-july-to-october/ (accessed Nov 2, 2026)
 
 ## Iowa Secretary of State
 _File: 
+
 
 [1] Duties of the Office — Iowa Secretary of State — https://sos.iowa.gov/duties-office (accessed Nov 2, 2026)
 [2] About Paul D. Pate — Iowa Secretary of State — https://sos.iowa.gov/about-paul-d-pate (accessed Nov 2, 2026)
@@ -157,6 +168,7 @@ _File:
 ## Iowa Auditor of State
 _File: 
 
+
 [1] About Us — Iowa Auditor of State — https://www.auditor.iowa.gov/about-us (accessed Nov 2, 2026)
 [2] Iowa auditor, Voter Guide: 2026 Iowa general election — Iowa Capital Dispatch — https://iowacapitaldispatch.com/voter-guides/contests/2026-iowa-auditor-general/ (accessed Nov 2, 2026)
 [3] Bill restricting state auditor's access to information heads to governor's desk (Apr 26, 2023) — Iowa Capital Dispatch — https://iowacapitaldispatch.com/2023/04/26/bill-restricting-state-auditors-access-to-information-heads-to-governors-desk/ (accessed Nov 2, 2026)
@@ -194,6 +206,7 @@ _File:
 ## Iowa Treasurer of State
 _File: 
 
+
 [1] Iowa treasurer | Voter Guide: 2026 Iowa general election — Iowa Capital Dispatch — https://iowacapitaldispatch.com/voter-guides/contests/2026-iowa-treasurer/ (accessed Nov 2, 2026)
 [2] Democratic state treasurer candidate proposes IPERS changes (Aug 15, 2026) — Iowa Capital Dispatch — https://iowacapitaldispatch.com/2026/08/15/democratic-state-treasurer-candidate-proposes-ipers-changes/ (accessed Nov 2, 2026)
 [3] Iowa Press: Iowa State Treasurer Candidates John Norwood & Roby Smith (Oct 16, 2026, transcript) — Iowa PBS — https://www.iowapbs.org/shows/iowapress/episode/14604/iowa-state-treasurer-candidates-john-norwood-roby-smith (accessed Nov 2, 2026)
@@ -227,9 +240,13 @@ _File:
 [31] Treasurer Smith Announces Fee Reduction for ISave 529 Account Holders (June 25, 2026) — ISave 529 / State Treasurer (official) — https://www.isave529.com/learn/news/treasurer-smith-announces-fee-reduction-for-isave-529-account-holders (accessed Nov 2, 2026)
 [32] John Norwood — LinkedIn (self-reported; search excerpt only) — https://www.linkedin.com/in/johnmnorwood (accessed Nov 2, 2026)
 [33] 2003 Iowa Acts, Extra Session (amends Code 97B.3; scrape timed out, search excerpt only) — Iowa Legislature — https://www.legis.iowa.gov/docs/publications/iactc/80.1.1/2003_Iowa_Acts_Extra1.pdf (accessed Nov 2, 2026)
+[34] SF 2417 (2018) Senate passage roll call — LegiScan — https://legiscan.com/IA/rollcall/SF2417/id/749481 (accessed Nov 2, 2026)
+[35] HF 2317 (2022) Senate passage roll call — LegiScan — https://legiscan.com/IA/rollcall/HF2317/id/1154700 (accessed Nov 2, 2026)
+[36] SF 418 (2023) bill history — LegiScan — https://legiscan.com/IA/bill/SF418/2023 (accessed Nov 2, 2026)
 
 ## Iowa Secretary of Agriculture
 _File: 
+
 
 [1] Iowa Secretary of Agriculture — Voter Guide: 2026 Iowa general election — Iowa Capital Dispatch — https://iowacapitaldispatch.com/voter-guides/contests/2026-iowa-secretary-of-agriculture/ (accessed Nov 2, 2026)
 [2] Ag sec candidates debate Iowa's beef herd, water quality, land ownership, local food (Cami Koons, Oct 2, 2026) — Iowa Capital Dispatch — https://iowacapitaldispatch.com/2026/10/02/ag-sec-candidates-debate-iowas-beef-herd-water-quality-land-ownership-local-food/ (accessed Nov 2, 2026)
@@ -265,6 +282,7 @@ _File:
 ## Iowa Attorney General
 _File: 
 
+
 [1] Iowa attorney general, Voter Guide: 2026 Iowa general election — Iowa Capital Dispatch — https://iowacapitaldispatch.com/voter-guides/contests/2026-iowa-attorney-general/ (accessed Nov 2, 2026)
 [2] About the Office of Attorney General — Iowa Attorney General (official) — https://www.iowaattorneygeneral.gov/what-we-do/about-us (accessed Nov 2, 2026)
 [3] Brenna Bird for Iowa Attorney General (campaign, self-reported) — https://birdforiowa.com/ (accessed Nov 2, 2026)
@@ -298,12 +316,14 @@ _File:
 [31] Letter from POET's counsel (Benesch) to Willems for Iowa, Aug 28, 2026 (hosted by the Willems campaign; interested party) — https://www.natewillems.com/assets/public/2026.08.28%20Ltr%20to%20Willems%20for%20Iowa.pdf (accessed Nov 2, 2026)
 [32] Trump endorses Brenna Bird in Iowa attorney general's race — KGAN/CBS2 — https://cbs2iowa.com/news/local/trump-endorses-bird-in-iowa-attorney-generals-race (accessed Nov 2, 2026; search excerpt)
 [33] Brenna Bird endorsements, 2026 — Sway (includes Maggie's List) and Iowa Standard Facebook post on NRA — https://www.sway.co/candidate/brenna-bird-b829f88c-aea9-4f6a-8b2d-860f63aacecd (accessed Nov 2, 2026; search excerpt)
-[34] Campaign Almanac: Brenna Bird announces 71 sheriff endorsements — The Gazette (date not confirmed) — https://www.thegazette.com/news/elections/campaign-almanac-brenna-bird-announces-71-sheriff-endorsements/article_c6af01b2-3d09-5d97-b4cc-f8717fa895ce.html (accessed Nov 2, 2026; search excerpt)
+[34] Campaign Almanac: Brenna Bird announces 71 sheriff endorsements (Sept. 9, 2022) — The Gazette — https://www.thegazette.com/news/elections/campaign-almanac-brenna-bird-announces-71-sheriff-endorsements/article_c6af01b2-3d09-5d97-b4cc-f8717fa895ce.html (accessed Nov 2, 2026; search excerpt)
 [35] Bird for Iowa calls out Nate Willems for voting against voter ID — Iowa GOP Facebook post (advocacy) — https://www.facebook.com/IowaGOP/posts/bird-for-iowa-calls-out-liberal-nate-willems-for-attorney-general-for-voting-aga/1647039700123556/ (accessed Nov 2, 2026; search excerpt)
 [36] DAGA Endorses Nate Willems for Iowa Attorney General, May 6, 2026 — Democratic Attorneys General Association (advocacy) — https://dems.ag/profile/nate-willems/ (accessed Nov 2, 2026; search excerpt)
+[37] NRA-PVF Iowa grades and endorsements, 2026 (lists Brenna Bird as "NRA Endorsed") — NRA Political Victory Fund — https://www.nrapvf.org/grades/iowa/ (accessed Nov 2, 2026); Maggie's List endorsement — https://maggieslist.org/maggies-list-in-the-gazette-maggies-list-backs-lundgren-attorney-general-brenna-bird/
 
 ## Polk County Attorney
 _File: 
+
 
 [1] Criminal Division — Polk County — https://www.polkcountyiowa.gov/county-attorney/criminal-division/ (accessed Nov 2, 2026)
 [2] Polk County Attorney's Office 2023 Status Report — Polk County — https://www.polkcountyiowa.gov/media/scvlp2sr/polk-county-attorneys-office-status-report-2023-03-07-2024.pdf (accessed Nov 2, 2026)
@@ -333,4 +353,3 @@ _File:
 [26] Jonah Dyer — Ballotpedia — https://ballotpedia.org/Jonah_Dyer (accessed Nov 2, 2026)
 [27] Kimberly Graham (term, 2022 result, endorsements) — Ballotpedia — https://ballotpedia.org/Kimberly_Graham (accessed Nov 2, 2026)
 [28] Armed standoff charges dismissed after prosecutors miss indictment deadline — Des Moines Register, Sept. 26, 2025 (paywalled; excerpt only) — https://www.desmoinesregister.com/story/news/crime-and-courts/2025/09/26/des-moines-police-standoff-charges-dismissed-missed-deadline/86335752007/ (accessed Nov 2, 2026)
-

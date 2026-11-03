@@ -78,6 +78,13 @@ Corrections to profiles: **03_governor.md**: replaced a placeholder citation ("h
 - Left alone: Lahn/Sand length gap (about 1,476 vs 1,225 words); Laehn has no criticisms and a shorter profile (about 850 words), which reflects coverage; Norwood (972) vs Smith (1,224) per the handoff; Hegseth entry in 02 is about 170 words versus shorter siblings; three nonstandard inline cites and a garbled Muhlbauer phrase in 03; 05 has a "Party support" bullet for Cournoyer with no matching bullet for Wettach.
 - Open check: 08 says Bird "lost the 2010 AG race to Miller." Capital Dispatch says so, but Ballotpedia's 2010 page names the nominee "Findley," and a name change was not confirmed.
 
+## Sixth-pass results (cheap follow-ups)
+| Item | Verdict | Evidence |
+|---|---|---|
+| Bird "lost the 2010 AG race to Miller" (08) | Confirmed: Bird ran in 2010 as Brenna Findley and lost by about 11 points | Wikipedia (Brenna Bird); Yahoo/Register: "Bird, then Brenna Findley, first challenged Democratic Miller in 2010. She lost by 11%, taking 44%"; Ballotpedia confirms the 2022 rematch (50.8% to 49.1%). No profile change needed. |
+| Sand cycle total $54.15M (03) | Reproduced | Ethics Board DR-2 summary for Rob Sand for Iowa (committee 5185, filed 10/19/2026): $16,311,060.35 raised, $28,918,087.29 spent, $5,350,932.38 cash on hand, $17,957,959.32 cash at start of period. The $37.8M figure is the cycle total through July 14; $37.84M + $16.31M = $54.15M. The pre-2026 balance implied is about $18.9M raised before May 2026 (2025 reports), which the profile does not list. No edit needed. https://iecdbblobstorage.blob.core.windows.net/reports-prod/5185_DR2_Summary_10-19-2026T20.05.48.602.pdf |
+| SOURCES.md | Regenerated from each profile's Sources section so it now includes all sources added during validation (LegiScan roll calls, FEC, KCCI, Register, etc.) | |
+
 ## Second-pass results (no change needed)
 | Race | Claim | Verdict | Evidence |
 |---|---|---|---|
